@@ -1,8 +1,8 @@
-📝 README Completo - Análise de Mudanças Climáticas
+# 📝 README Completo - Análise de Mudanças Climáticas
 
-🌡️ Relatório Integrado
+##🌡️ Relatório Integrado
 
-📊 Resultados Chave
+##📊 Resultados Chave
 Tendência de Aquecimento Global
 
 Aumento médio: +0.18°C/década (1880-2023)
@@ -23,7 +23,7 @@ Pearson: r = 0.98 (p < 0.001)
 
 Teste ANOVA: Diferenças significativas entre décadas
 
-🛠️ Como Executar o Projeto
+##🛠️ Como Executar o Projeto
 
 # Clone o repositório
 git clone https://github.com/Dongo-28/Final_project.git
@@ -36,7 +36,7 @@ jupyter notebook notebooks/1_eda_preprocessing.ipynb
 jupyter notebook notebooks/2_statistical_analysis.ipynb
 jupyter notebook notebooks/3_machine_learning.ipynb
 
-📂 Estrutura do Projeto
+##📂 Estrutura do Projeto
 Final_project/
 
 ├── data/
@@ -65,7 +65,7 @@ Final_project/
 
     └── literature_review.md
 
-📈 Métodos Utilizados
+##📈 Métodos Utilizados
 Pré-processamento
 
 Tratamento de valores ausentes
@@ -84,28 +84,21 @@ Regressão Linear
 
 Métricas: RMSE e R²
 
-💡 Conclusões
+##💡 Conclusões
 Confirmação do aquecimento global acelerado
 
 Relação direta entre temperatura e nível do mar
 
 Modelo preciso para projeções futuras
 
-🚀 Próximos Passos
-Adicionar dados de emissão de CO₂
-
-Implementar modelo de séries temporais
-
-Criar dashboard interativo
-
-📚 Referências
+##📚 Referências
 IPCC (2023). AR6 Climate Change Report
 
 NASA GISS (2024). Global Temperature Data
 
 NOAA (2023). Sea Level Rise Technical Report
 
-👥 Como Contribuir
+##👥 Como Contribuir
 Faça um fork do projeto
 
 Crie sua branch (git checkout -b feature/nova-analise)
